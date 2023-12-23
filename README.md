@@ -1,4 +1,4 @@
-# This Project is an implementation for the binary search algorithm using Assembly language.
+### This Project is an implementation for the binary search algorithm using Assembly language.
 
 
 # How to use:
@@ -10,5 +10,5 @@ the middle element and compare it to the key and so on until we find key in arr,
 is displayed stating the sad news.
 
 
-# You can check out how this code works in more detail here:
+## You can check out how this code works in more detail here:
 https://youtu.be/CPcvYZQduOg?feature=shared
